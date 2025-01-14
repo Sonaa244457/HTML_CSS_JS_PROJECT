@@ -1,5 +1,5 @@
-# HTML_CSS_JS_PROJECT
-Educational Website
+# Educational Website
+
 Overview:
 This project is an interactive and responsive website built for students to enhance their learning experience. It provides well-structured content, intuitive design, and interactive features to make education more accessible and engaging.
 
