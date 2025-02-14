@@ -18,7 +18,6 @@ Purpose:
 To provide an online platform where students can explore and understand topics effortlessly, fostering a better learning environment.
 
 Future Scope:
-
 Integration of quizzes and assessments.
 Addition of multimedia resources like videos and infographics.
 Enhanced personalization for users.
